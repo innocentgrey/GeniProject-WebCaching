@@ -2,6 +2,7 @@
 GeniProject of Boston University CS655 fall 2019
 
 # step 1 -- reserve rspec from Geni
+use the rspec in my repository
 # step 2 -- some basic configurations on client and cache nodes
 on client node, run
 ```
